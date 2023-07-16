@@ -1,6 +1,6 @@
-import "./CategoryItem.style.scss"
+import "./CatgItem.style.scss"
 
-const CategoryItem = ({ imageUrl, title }) => {
+const CatgItem = ({ imageUrl, title }) => {
     return (
     <div className="category-container">
           <div
@@ -16,4 +16,4 @@ const CategoryItem = ({ imageUrl, title }) => {
     )
 }
 
-export default CategoryItem
+export default CatgItem
