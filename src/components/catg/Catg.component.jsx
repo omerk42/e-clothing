@@ -1,5 +1,5 @@
 import "./Catg.style.scss";
-import CatgItem from "../catg-item/CatgItem.component";
+import CatgItem from "./catg-item/CatgItem.component";
 
 
 const Catg = ({categories}) => {
